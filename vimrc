@@ -32,11 +32,11 @@ set     clipboard=unnamed
 "------------------------------------------------------------------------------
 
 
-"inoremap ( ()<Esc>i
-"inoremap " ""<Esc>i
-"inoremap ' ''<Esc>i
-"inoremap { {}<Esc>i
-"inoremap [ []<Esc>i
+inoremap ( ()<Esc>i
+inoremap " ""<Esc>i
+inoremap ' ''<Esc>i
+inoremap { {}<Esc>i
+inoremap [ []<Esc>i
 
 filetype indent on
 
