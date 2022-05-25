@@ -132,3 +132,8 @@ set showcmd
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
 
+" fast Esc
+inoremap jk <ESC>
+cnoremap jk <ESC>
+inoremap Jk <ESC>
+cnoremap Jk <ESC>
